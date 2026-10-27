@@ -1,13 +1,11 @@
 # Hi, I'm Sid 👋
 
-CS + Business student at Northeastern University (Khoury College, class of 2029). I build simple web tools, games, and content projects, mostly in public.
+CS + Business student at Northeastern University (Khoury College, class of 2030). I build simple web tools and side projects, mostly in public.
 
 ## What I'm working on
 - **getpdfree.com** – browser-only PDF toolkit used by 1,500–3,000 people a month, plus CiteFree, a citation generator
 - **Coverage** – stock sentiment analyzer built on the Claude API, deployed on Vercel
 - **PriceWatch** – tracks prices on items you care about, live on Vercel
-- **Crown Rush** – a Roblox tower obby race game
-- **ThinkTwice** – a faceless Shorts/TikTok channel
 
 ## Experience
 - Web Developer, Bhakti Yoga Club – built and launched the club site solo
